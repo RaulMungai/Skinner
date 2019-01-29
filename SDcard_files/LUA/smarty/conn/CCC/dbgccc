@@ -1,0 +1,6 @@
+nut.cmdline("servSetNum CCC sys\\debugLevel 0")
+nut.cmdline("servSetNum CCC sys\\debugCLE 1")
+nut.cmdline("servSetNum CCC sys\\debugQueue 1")
+nut.cmdline("servSetNum CCC sys\\debugPart 1")
+nut.cmdline("servSetNum CCC sys\\debugFS 1")
+nut.cmdline("servSetNum CCC sys\\debugWNET 1")
